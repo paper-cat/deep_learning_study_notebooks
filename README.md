@@ -1,5 +1,8 @@
 # study_notebooks
 Notebooks for study
 
-1. Attention Neural machine translation by google
-    - 한글로 번역 / 쉽게 정리하는 노트
+주로 튜토리얼들을 한글로 번역, 이해하기 쉽게 정리합니다.
+
+NLP
+    1. Attention Neural machine translation by google (tensorflow)
+    2. Transformer language understanding by google (tensorflow)
